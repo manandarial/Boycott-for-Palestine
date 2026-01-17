@@ -1,0 +1,12 @@
+.ethicschecker-overlay { position: fixed; inset: 0; display: flex; align-items: center; justify-content: center; background: rgb(201, 201, 201); z-index: 2147483647; }
+.ethicschecker-box { position: relative; background: #fff; color: #111; padding: 20px 24px; border-radius: 10px; box-shadow: 0 10px 30px rgba(0,0,0,1); max-width: 92%; width: 420px; text-align: center; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; }
+.ethicschecker-close { position: absolute; top: 8px; right: 10px; border: none; background: #fff; font-size: 18px; line-height: 1; cursor: pointer; padding: 6px 8px; border-radius: 6px; box-shadow: 0 2px 6px rgba(0,0,0,0.15); color: #111; }
+.ethicschecker-close:hover { background: #f2f2f2; }
+.ethicschecker-box h2 { margin: 4px 0 10px; font-size: 18px; }
+.ethicschecker-box p { margin: 0; font-size: 14px; }
+.ethicschecker-desc { margin-top: 12px; font-size: 13px; color: #333; text-align: left; }
+.ethicschecker-meta { display: flex; gap: 12px; justify-content: center; margin-bottom: 8px; font-size: 13px; color: #666; }
+.ethicschecker-site { font-weight: 600; }
+.ethicschecker-industry { font-style: italic; }
+.ethicschecker-subhead { margin: 12px 0 6px; font-size: 13px; text-align: left; }
+.ethicschecker-alts { margin-top: 6px; font-size: 13px; color: #0b5394; text-align: left; }
