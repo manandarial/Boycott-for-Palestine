@@ -1,7 +1,6 @@
 <img width="64" height="64" alt="icon" src="https://github.com/user-attachments/assets/ded51b20-c661-4c4c-b497-a6e1e1edf634" />
-# Boycott-for-Palestine
 
-width="631" height="385" alt="screenshot of the extension working" src="https://github.com/user-attachments/assets/dd6950a2-159d-4555-b2a3-4441a942e1c5" />
+# Boycott-for-Palestine
 
 **Boycott for Palestine** is a consumer awareness extension that helps users make informed choices by highlighting companies with documented ethical concerns and suggesting practical consumer alternatives.
 
