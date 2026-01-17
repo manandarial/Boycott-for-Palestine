@@ -1,5 +1,6 @@
 # Boycott-for-Palestine
-https://github.com/manandarial/Boycott-for-Palestine/blob/main/screenshot_1.5x_postspark_2026-01-17_23-01-42.png
+<img width="631" height="385" alt="screenshot of the extension working" src="https://github.com/user-attachments/assets/dd6950a2-159d-4555-b2a3-4441a942e1c5" />
+
 **Boycott for Palestine** is a consumer awareness extension that helps users make informed choices by highlighting companies with documented ethical concerns and suggesting practical consumer alternatives.
 
 The goal is simple:  
