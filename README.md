@@ -35,3 +35,4 @@ No forced actions.
 1. **Install the extension**
    - Add Boycott for Palestine manually in Developer Mode from the extension page  
    *(adding browser extension from store method under process)*
+   https://www.cnet.com/tech/services-and-software/how-to-install-chrome-extensions-manually/
